@@ -40,7 +40,7 @@ A medical chatbot designed to provide accurate and context-aware responses to he
 
 Run the Streamlit application:
 ```bash
-streamlit run app.py
+streamlit run medibot.py
 ```
 
 ## Contributing
